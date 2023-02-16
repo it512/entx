@@ -1,4 +1,4 @@
-package schematype
+package pk
 
 import (
 	"entgo.io/ent"
